@@ -1,11 +1,11 @@
-<h1 align="center">Oi, eu sou Jefferson Batista!</h1>
+<h1 align="center">Oi, me chamo Jefferson Batista!</h1>
 <h3 align="center">DESENVOLVEDOR|BACKEND</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffersonxavi&label=Profile%20views&color=0e75b6&style=flat" alt="jeffersonxavi" /> </p>
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/jeffersonxavi?tab=repositories](https://github.com/jeffersonxavi?tab=repositories)
 
-<h3 align="left">Conecte comigo:</h3>
+<h3 align="left">Contato:</h3>
 <p align="left">
 <a href="https://instagram.com/jeffsnxavier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeffsnxavier" height="30" width="40" /></a>
 </p>
