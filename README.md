@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffersonxavi&label=Profile%20views&color=0e75b6&style=flat" alt="jeffersonxavi" /> </p>
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/jeffersonxavi?tab=repositories](https://github.com/jeffersonxavi?tab=repositories)
+- Mais sobre mim(Portfólio): https://jeffersonxavi.github.io/portfolio/
 
 <h3 align="left">Contato:</h3>
 <p align="left">
